@@ -1,0 +1,47 @@
+li a
+{
+    font-size: 25px;
+}
+body a
+{
+    text-decoration: none;
+    color: black;
+}
+li
+{
+    list-style: 
+}
+nav
+{
+    background-color: darkgray;
+    border: 2px solid black;
+    padding: 50px;
+    font-family: Ubuntu,sans-serif;
+    font-weight: 900;
+    font-size: 4em;
+}
+body h1
+{
+    margin-top: 100px;
+    margin-bottom: 50px;
+    text-align: center;
+    font-family: lato, sans-serif;
+    font-size: 3em;
+}
+.gg
+{
+    background-color: #F97F51;
+    height: 1000px;
+    padding: 50px 50px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+.box
+{
+    margin: 5px;
+    padding: 5px;
+    color: #30336b;
+    font-family: montserrat,sans-serif;
+    font-weight: 900;
+    text-align: center;
+}
